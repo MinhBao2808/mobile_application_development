@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Get Address</title>
+</head>
+<body>
+    Vi Do:
+    <input type="text" id="vido" value="" />
+    Kinh Do:
+    <input type="text" id="kinhdo" value="" />
+    <input type="button" value="Lay Dia Chi" onclick="GetAddress()" />
+<!--    <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>-->
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCJsy_zFGSgIhuUEwt8lkDE37IjfQlKhHI&callback=initMap">
+    </script>
+    <script type="text/javascript">
+        function GetAddress() {
+            var viDo = parseFloat(document.getElementById("vido").value);
+            var kinhDO = parseFloat(document.getElementById("kinhdo").value);
+            var latlng = new google.maps.LatLng(viDo, kinhDO);
+            var geocoder = geocoder = new google.maps.Geocoder();
+            geocoder.geocode({ 'latLng': latlng }, function (results, status) {
+                if (status == google.maps.GeocoderStatus.OK) {
+                    if (results[0]) {
+                        alert("Address: " + results[0].formatted_address);
+                    }
+                }
+				else {
+					alert("Khong tim thay dia chi");
+				}
+            });
+        }
+    </script>
+</body>
+</html>
