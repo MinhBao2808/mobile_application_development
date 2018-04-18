@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Bum/Documents/GitHub/mobile_application_development/Ex2/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/Bum/.android/build-cache/e4eb3fac6523f1d42741248408508757826c0455/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/Bum/Documents/GitHub/mobile_application_development/Ex2/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/Bum/.android/build-cache/e4eb3fac6523f1d42741248408508757826c0455/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

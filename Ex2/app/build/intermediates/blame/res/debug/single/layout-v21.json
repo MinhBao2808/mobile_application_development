@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Bum/Documents/GitHub/mobile_application_development/Ex2/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/Bum/.android/build-cache/e4eb3fac6523f1d42741248408508757826c0455/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/Bum/Documents/GitHub/mobile_application_development/Ex2/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/Bum/.android/build-cache/e4eb3fac6523f1d42741248408508757826c0455/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/Bum/Documents/GitHub/mobile_application_development/Ex2/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/Bum/.android/build-cache/e4eb3fac6523f1d42741248408508757826c0455/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/Bum/Documents/GitHub/mobile_application_development/Ex2/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/Bum/.android/build-cache/e4eb3fac6523f1d42741248408508757826c0455/output/res/layout-v21/notification_action.xml"
+    }
+]
