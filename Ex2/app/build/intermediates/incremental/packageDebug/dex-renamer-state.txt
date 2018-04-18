@@ -1,7 +1,0 @@
-#Mon Apr 16 23:37:03 ICT 2018
-base.0=/Users/Bum/Documents/GitHub/mobile_application_development/Ex2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_fded6be3003418a301ada5f5df1aa79af16f8857
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=/Users/Bum/Documents/GitHub/mobile_application_development/Ex2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1802d1a7b587dd9a5d91463867e1ac0fef337db2/classes.dex
-base.1=/Users/Bum/Documents/GitHub/mobile_application_development/Ex2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1802d1a7b587dd9a5d91463867e1ac0fef337db2
-file.0=/Users/Bum/Documents/GitHub/mobile_application_development/Ex2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_fded6be3003418a301ada5f5df1aa79af16f8857/classes.dex
